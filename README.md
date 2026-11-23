@@ -8,7 +8,7 @@ https://github.com/krelltunez/lifeGLANCE/pulls?q=is%3Apr+state%3Aclosed+author%3
 
 
 ## 文案摘記
-- https://github.com/WhiteCourtyard/lifeGLANCE/wiki
+- [https://github.com/WhiteCourtyard/lifeGLANCE/wiki](https://github.com/WhiteCourtyard/Translation_Of_lifeGLANCE/wiki)
 ### 12-06-2026
 | 鍵名 | 翻譯文案 |
 | :--- | :--- |
