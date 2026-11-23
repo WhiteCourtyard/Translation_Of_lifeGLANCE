@@ -1,13 +1,15 @@
 # Translation_Of_lifeGLANCE
-紀錄軟件中文翻譯的重點句子
-中文翻譯 by Win2ter
 
-### 翻譯歷史列表
+- **本頁摘記**: 由 **Win2ter** 翻譯的 lifeGLANCE 中文翻譯文案 
+- **軟件庫**: https://github.com/krelltunez/lifeGLANCE
+- **翻譯歷史列表**
 https://github.com/krelltunez/lifeGLANCE/pulls?q=is%3Apr+state%3Aclosed+author%3Awin2ter
 
 
-### 12-06-2026
 
+## 文案摘記
+- https://github.com/WhiteCourtyard/lifeGLANCE/wiki
+### 12-06-2026
 | 鍵名 | 翻譯文案 |
 | :--- | :--- |
 | `tagline` | 你我生命裡的章回，於此一眸間鋪展 |
